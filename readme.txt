@@ -5,7 +5,7 @@ To run this app instructions:
 Open Terminal (cmd)
 run these commad:
 cd server
-then
+then,
 npm run dev
 
 if Mongodbsuccessfully run Display 
