@@ -13,7 +13,7 @@ then open new Terminal and run
 
 npx expo start --clear
 
-then open service/api.ts and match your Url
+then open service/api.ts and match your Url with your computer url
 example:
 if in terminal it display URL just below QRCode  (192.168.1.5)
 then your api.ts file URL should also bhi same (192.168.1.5)
